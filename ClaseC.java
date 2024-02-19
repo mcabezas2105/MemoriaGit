@@ -28,6 +28,12 @@ public class ClaseC {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+	@Override
+	public String toString() {
+		return "ClaseC [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + ", getNombre()=" + getNombre()
+				+ ", getApellido()=" + getApellido() + ", getEdad()=" + getEdad() + "]";
+	}
+	
 	
     
 }

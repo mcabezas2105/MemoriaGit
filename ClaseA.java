@@ -33,5 +33,4 @@ public class ClaseA {
 		return "ClaseA [a=" + a + ", b=" + b + ", c=" + c + "]";
 	}
 	
-	
 }
