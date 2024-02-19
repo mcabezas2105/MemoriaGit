@@ -32,6 +32,10 @@ public class ClaseC {
 	public String toString() {
 		return "ClaseC [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
 	}
+	public void obtenerNombre()
+	{
+		
+	}
 	
 	
 	
