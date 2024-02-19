@@ -33,6 +33,10 @@ public class ClaseC {
 		return "ClaseC [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
 	}
 	
+	public void ingresarNombre() {
+		
+	}
+	
 	
 	
 	
