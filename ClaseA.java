@@ -33,9 +33,7 @@ public class ClaseA {
 	public String toString() {
 		return "ClaseA [a=" + a + ", b=" + b + ", c=" + c + "]";
 	}
-	public void suma() {
-		
-	}
+	
 
 	
 }
