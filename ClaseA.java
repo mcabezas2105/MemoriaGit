@@ -28,11 +28,5 @@ public class ClaseA {
 	public void setC(int c) {
 		this.c = c;
 	}
-	@Override
-	public String toString() {
-		return "ClaseA [a=" + a + ", b=" + b + ", c=" + c + "]";
-	}
-	
-	
 	
 }
