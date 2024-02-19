@@ -30,9 +30,9 @@ public class ClaseC {
 	}
 	@Override
 	public String toString() {
-		return "ClaseC [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + ", getNombre()=" + getNombre()
-				+ ", getApellido()=" + getApellido() + ", getEdad()=" + getEdad() + "]";
+		return "ClaseC [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
 	}
+	
 	
 	
     
