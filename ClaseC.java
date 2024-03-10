@@ -35,6 +35,8 @@ public class ClaseC {
 	
 	public void ingresarNombre() {
 		Scanner teclado=new Scanner (System.in);
+		String nombre;
+		nombre=teclado.nextLine();
 	}
 	
 	
