@@ -30,6 +30,7 @@ public class ClaseA {
 	}
 	public void añadir()
 	{ 
+		int num=0;
 	}	
 
 	@Override
