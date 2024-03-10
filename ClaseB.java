@@ -34,6 +34,7 @@ public class ClaseB {
 		this.c = c;
 	}
 	public double resultado(){
+		double res=0;
 	}
 
 }
