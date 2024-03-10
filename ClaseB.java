@@ -33,6 +33,7 @@ public class ClaseB {
 
 		this.c = c;
 	}
-	
+	public double resultado(){
+	}
 
 }
