@@ -28,6 +28,9 @@ public class ClaseA {
 	public void setC(int c) {
 		this.c = c;
 	}
+	public void añadir()
+	{ 
+	}	
 
 	@Override
 	public String toString() {
