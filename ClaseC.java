@@ -39,6 +39,9 @@ public class ClaseC {
 		nombre=teclado.nextLine();
 	}
 	public void añadirEdad(){
+		Scanner teclado=new Scanner(System.in);
+		int edad;
+		edad=teclado.nextLine();
 	}
 	
 	
