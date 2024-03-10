@@ -38,7 +38,8 @@ public class ClaseC {
 		String nombre;
 		nombre=teclado.nextLine();
 	}
-	
+	public void añadirEdad(){
+	}
 	
 	
 	
