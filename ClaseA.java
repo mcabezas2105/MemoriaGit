@@ -36,6 +36,7 @@ public class ClaseA {
 	public void suma() 
 	{
 		
+		int suma=0;
 	}
 
 	
