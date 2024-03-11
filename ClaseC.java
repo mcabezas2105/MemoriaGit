@@ -43,7 +43,10 @@ public class ClaseC {
 		int edad;
 		edad=teclado.nextLine();
 	}
+
 	public void añadirApellido(){
+  }
+	public void verDatos(){
 	}
 	
 	
