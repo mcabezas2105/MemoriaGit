@@ -36,5 +36,8 @@ public class ClaseB {
 	public double resultado(){
 		double res=0;
 	}
+	public void verResultado()
+	{
+	}	
 
 }
