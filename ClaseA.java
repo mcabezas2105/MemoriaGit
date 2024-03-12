@@ -42,6 +42,9 @@ public class ClaseA {
 		
 		int suma=0;
 	}
+	public void resta()
+	{
+	}
 
 	
 }
