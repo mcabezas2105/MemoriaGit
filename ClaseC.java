@@ -4,6 +4,7 @@ public class ClaseC {
     String nombre;
     String apellido;
     int edad;
+	int soyIván=2;
 	public ClaseC(String nombre, String apellido, int edad) {
 		super();
 		this.nombre = nombre;
